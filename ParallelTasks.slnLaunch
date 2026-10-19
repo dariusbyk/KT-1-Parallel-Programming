@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "Task3_MinMaxComparison\\Task3_MinMaxComparison.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
